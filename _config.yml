@@ -2,5 +2,5 @@ markdown: kramdown
 theme: minima
 
 header_pages:
-  - _pages/index.md
-  - _pages/about.md
+  - index.md
+  - about.md
