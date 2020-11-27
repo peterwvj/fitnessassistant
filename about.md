@@ -2,6 +2,5 @@
 layout: page
 title: About
 ---
-# About
 
-About.
+Content of about page.
